@@ -1,6 +1,13 @@
 # DogProfileCompose
 
-First project learning Jetpack Compose
+First project learning Jetpack Compose.
+Learning how to use ConstraintLayout.
+
+## Tools:
+- Android Studio 2021.1.1
+- compileSdk 32
+- targetSdk 32
+- Compose Version: 1.0.1
 
 
 ## Result 
